@@ -11,7 +11,7 @@ I'm a passionate developer interested in web development and open-source contrib
 HTML5 CSS3 JavaScript React
 
 📈 GitHub Stats
-Sandeep's GitHub stats
+Anmol GitHub stats
 
 GitHub Streak
 
