@@ -37,17 +37,13 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ANMOL-CHHETRI&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANMOL-CHHETRI&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ANMOL-CHHETRI/ANMOL-CHHETRI/output/github-snake.svg" alt="Snake animation" />
-</p>
 
 
 
