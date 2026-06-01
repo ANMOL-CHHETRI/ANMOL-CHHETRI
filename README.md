@@ -65,7 +65,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://amolchhetri.com.np">
+  <a href="https://anmolchhetri.com.np">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
